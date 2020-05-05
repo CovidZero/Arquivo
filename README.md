@@ -9,3 +9,5 @@
 	<a href="https://www.instagram.com/covidzerobrasil/">Instagram</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://join.slack.com/t/covidzero/shared_invite/zt-cwf9qixg-yhuPXt3TJVaBvH0Gwig8tQ">Slack</a>&nbsp;&nbsp;&nbsp;
 </p>
+
+# PROJETO ARQUIVADO E FORA DE UTILIZAÇÃO
